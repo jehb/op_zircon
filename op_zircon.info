@@ -1,0 +1,45 @@
+ ; Theme info
+name = 'OP Zircon'
+description = 'OrangePolitics 3.0 theme, based on Zircon.'
+core = '7.x'
+engine = 'phptemplate'
+base theme = 'zircon'
+screenshot = 'screenshot.png'
+
+;*************************************************
+;****************** REGIONS **********************
+;*************************************************
+regions[page_top] = 'Page top'
+regions[header] = 'Header'
+regions[menu_bar] = 'Menu bar'
+regions[slideshow] = 'Slideshow'
+regions[help] = 'Help'
+regions[highlighted] = 'Highlighted'
+regions[content] = 'Main content'
+regions[sidebar_first] = 'Sidebar first'
+regions[sidebar_second] = 'Sidebar second'
+regions[page_bottom] = 'Page bottom'
+regions[footer] = 'Footer'
+regions[panel_first_1] = 'Panel first column 1'
+regions[panel_first_2] = 'Panel first column 2'
+regions[panel_first_3] = 'Panel first column 3'
+regions[panel_first_4] = 'Panel first column 4'
+regions[panel_first_5] = 'Panel first column 5'
+regions[panel_first_6] = 'Panel first column 6'
+regions[panel_second_1] = 'Panel second column 1'
+regions[panel_second_2] = 'Panel second column 2'
+regions[panel_second_3] = 'Panel second column 3'
+regions[panel_second_4] = 'Panel second column 4'
+regions[panel_second_5] = 'Panel second column 5'
+regions[panel_second_6] = 'Panel second column 6'
+regions[panel_third_1] = 'Panel third column 1'
+regions[panel_third_2] = 'Panel third column 2'
+regions[panel_third_3] = 'Panel third column 3'
+regions[panel_third_4] = 'Panel third column 4'
+regions[panel_third_5] = 'Panel third column 5'
+regions[panel_third_6] = 'Panel third column 6'
+
+;*************************************************
+;******************* COLORS **********************
+;*************************************************
+skins[orange] = 'Orange Style'
